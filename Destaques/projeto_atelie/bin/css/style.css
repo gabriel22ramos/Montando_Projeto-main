@@ -1,0 +1,42 @@
+body {
+    max-width: 100%;
+    margin:  0 auto;
+}
+
+.descricoes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 95%;
+    align-items: center;
+}
+
+.descricao1 {
+    background-color: black;
+    color: #fff;
+    
+}
+
+.produto1 {
+    background-color: antiquewhite;
+    color: #fff;
+    display: grid; 
+}
+
+
+.produto2 {
+    background-color: rgb(138, 255, 127);
+    color: #fff;  
+}
+.descricao2 {
+    background-color: rgb(255, 145, 0);
+    color: #fff;
+    
+}
+.boloPote {
+    width: 200px;
+}
+
+.categorias {
+    width: 200px;
+    height: 200px;
+}

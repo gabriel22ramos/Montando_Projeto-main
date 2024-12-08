@@ -1,0 +1,18 @@
+body {
+    max-width: 100%;
+    margin:  0 auto;
+}
+
+.btn-pink {
+    background-color: #ff1493;
+    color: #fff;
+    border-radius: 0%;
+}
+.btn-pink:hover {
+    background-color: #fab1dc;
+    color: #fff;
+}
+.pai {
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
